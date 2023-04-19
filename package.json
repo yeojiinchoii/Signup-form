@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "moongoose": "^0.0.5",
+    "nodemon": "^2.0.22"
+  },
+  "name": "signup-form",
+  "description": "SignUp Form with HTML, Node JS, MongoDB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/yeojiinchoii/Signup-form.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeojiinchoii/Signup-form.git"
+  },
+  "author": "Yeojin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeojiinchoii/Signup-form/issues"
+  },
+  "homepage": "https://github.com/yeojiinchoii/Signup-form#readme"
+}
